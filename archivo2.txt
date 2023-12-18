@@ -1,3 +1,0 @@
-contenido del segundo fichero, pero ahora lo modifico
-
-otra linea en archivo2
