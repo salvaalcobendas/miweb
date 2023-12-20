@@ -1,1 +1,3 @@
 escribo en segundo archivo
+2ª linea en archivo2
+3ª linea en archivo2
